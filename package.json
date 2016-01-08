@@ -1,0 +1,19 @@
+{
+  "name": "moderator_panel",
+  "version": "1.0.0",
+  "description": "GUI for moderators to more easily modify certain parts of rails-admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xelad1/moderator_panel.git"
+  },
+  "author": "Alex Dajani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xelad1/moderator_panel/issues"
+  },
+  "homepage": "https://github.com/xelad1/moderator_panel#readme"
+}
